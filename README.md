@@ -3,7 +3,8 @@ This excel-file is use to calculate the compensation of the CO2-threshold for LC
 
 
 # How to
-Enter areas
+Enter areas according to input in RTLCA
+
 ![image](https://github.com/user-attachments/assets/5d018907-7465-4242-bd2d-d7662c503c45)
 
 Open project in RTLCA to go _Insight_ and press _Download as excel_.
